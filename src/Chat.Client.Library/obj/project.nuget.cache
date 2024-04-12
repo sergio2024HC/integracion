@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AMMDw7qQ85bWOf+mEuiHsINVTUwtjRfVRaH2LrGPWvs0A+eCySzSj0hYIvF27Yetck12HURttKfaQyfcVq2qNw==",
+  "success": true,
+  "projectFilePath": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Client.Library/Chat.Client.Library.csproj",
+  "expectedPackageFiles": [
+    "/home/sehernandezc/.nuget/packages/coverlet.msbuild/6.0.2/coverlet.msbuild.6.0.2.nupkg.sha512",
+    "/home/sehernandezc/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/sehernandezc/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "29s8kIDEGb2bceC4Hk+3eR6EWLbIlJo5jNbe9OxOSec=",
+  "Source": "Chat.Server",
+  "BasePath": "_content/Chat.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

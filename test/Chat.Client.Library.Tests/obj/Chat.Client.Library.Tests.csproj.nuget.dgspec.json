@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/test/Chat.Client.Library.Tests/Chat.Client.Library.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Client.Library/Chat.Client.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Client.Library/Chat.Client.Library.csproj",
+        "projectName": "Chat.Client.Library",
+        "projectPath": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Client.Library/Chat.Client.Library.csproj",
+        "packagesPath": "/home/sehernandezc/.nuget/packages/",
+        "outputPath": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Client.Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sehernandezc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Common/Chat.Common.csproj": {
+                "projectPath": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Common/Chat.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100-preview.2.24157.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Common/Chat.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Common/Chat.Common.csproj",
+        "projectName": "Chat.Common",
+        "projectPath": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Common/Chat.Common.csproj",
+        "packagesPath": "/home/sehernandezc/.nuget/packages/",
+        "outputPath": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sehernandezc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100-preview.2.24157.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/test/Chat.Client.Library.Tests/Chat.Client.Library.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/test/Chat.Client.Library.Tests/Chat.Client.Library.Tests.csproj",
+        "projectName": "Chat.Client.Library.Tests",
+        "projectPath": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/test/Chat.Client.Library.Tests/Chat.Client.Library.Tests.csproj",
+        "packagesPath": "/home/sehernandezc/.nuget/packages/",
+        "outputPath": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/test/Chat.Client.Library.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sehernandezc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Client.Library/Chat.Client.Library.csproj": {
+                "projectPath": "/home/sehernandezc/sergio/Cursos_.NET_Testing_de_aplicaciones.NET_con_xUnit_y_Moq2024/Modulo 6  temas adicionales, tipologia, TDD, cobertura/Practicas y Descargas/Lab.240-Ejercicio de prácticas/src/Chat.Client.Library/Chat.Client.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100-preview.2.24157.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
